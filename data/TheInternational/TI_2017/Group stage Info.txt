@@ -1,0 +1,9 @@
+Info for group stage matches in TI2016:
+
+All matches were played in a best of two:
+	-A win (2-0) provided 2 points
+	-A draw (1-1) provided 1 point
+	-A loss (0-2) provided 0 points
+
+Top 4 teams in each group advances to upper bracket of the main event
+Bottom 4 teams in each group advances to lower bracket of the main event
