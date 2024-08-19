@@ -2,7 +2,7 @@ import streamlit as st
 import networkx as nx
 import pandas as pd
 
-G = nx.read_graphml('TI11 Playoffs Teams.graphml')
+G = nx.read_graphml('./data/TheInternational/TI_2021/TI11 Playoffs Teams.graphml')
 
 # Streamlit app
 st.title("Network Analysis of The International 2021 - Playoffs Teams")

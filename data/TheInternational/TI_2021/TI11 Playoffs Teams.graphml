@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id=" Quincy Crew"/>
+<node id=" Evil Geniuses"/>
+<node id=" Team Aster"/>
+<node id=" OG"/>
+<node id=" Invictus Gaming"/>
+<node id=" Elephant"/>
+<node id=" Virtus.pro"/>
+<node id=" Alliance"/>
+<node id=" Team Undying"/>
+<node id=" Fnatic"/>
+<node id=" Team Secret"/>
+<node id=" Vici Gaming"/>
+<node id=" T1"/>
+<node id=" PSG.LGD"/>
+<node id=" beastcoast"/>
+<node id=" Team Spirit"/>
+<edge source=" Quincy Crew" target=" Team Aster"/>
+<edge source=" Evil Geniuses" target=" Elephant"/>
+<edge source=" OG" target=" Quincy Crew"/>
+<edge source=" Invictus Gaming" target=" Team Spirit"/>
+<edge source=" Invictus Gaming" target=" Vici Gaming"/>
+<edge source=" Virtus.pro" target=" Vici Gaming"/>
+<edge source=" Alliance" target=" beastcoast"/>
+<edge source=" Fnatic" target=" Team Undying"/>
+<edge source=" Team Secret" target=" OG"/>
+<edge source=" Team Secret" target=" Invictus Gaming"/>
+<edge source=" Vici Gaming" target=" Evil Geniuses"/>
+<edge source=" Vici Gaming" target=" T1"/>
+<edge source=" T1" target=" Alliance"/>
+<edge source=" PSG.LGD" target=" T1"/>
+<edge source=" PSG.LGD" target=" Virtus.pro"/>
+<edge source=" PSG.LGD" target=" Team Secret"/>
+<edge source=" Team Spirit" target=" Fnatic"/>
+<edge source=" Team Spirit" target=" OG"/>
+<edge source=" Team Spirit" target=" Virtus.pro"/>
+<edge source=" Team Spirit" target=" Invictus Gaming"/>
+<edge source=" Team Spirit" target=" Team Secret"/>
+<edge source=" Team Spirit" target=" PSG.LGD"/>
+</graph></graphml>
