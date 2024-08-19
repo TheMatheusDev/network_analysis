@@ -28,6 +28,7 @@ subgrafos = [G.subgraph(s) for s in strongs]
 diameter = nx.diameter(subgrafos[0])
 periphery = nx.periphery(subgrafos[0])
 st.write(f"Diâmetro: {diameter}")
+st.write(f"Quantidade de Subgrafos: {len(subgrafos)}")
 st.write(f"Periferia: {periphery}")
 
 # Assortativity
